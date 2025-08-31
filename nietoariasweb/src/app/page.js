@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Familia Nieto Arias Web <code>src/app/page.js</code>.
+            Familia Nieto Arias WebSite <code>src/app/page.js</code>.
           </li>
           <li>Bienvenidos</li>
         </ol>
