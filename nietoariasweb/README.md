@@ -27,4 +27,32 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
+## 🗂 Structure
+
+```
+src/
+├── components/
+│   ├── Layout.jsx
+│   ├── Header.jsx
+│   ├── Footer.jsx
+│   ├── Logo.jsx
+│   ├── SiteOwnerInfo.jsx
+│   └── pages/
+│       ├── Home.jsx
+│       ├── Research.jsx
+│       ├── People.jsx
+│       ├── Publications.jsx
+│       ├── Gallery.jsx
+│       ├── Video.jsx
+│       ├── Facilities.jsx
+│       ├── Collaborations.jsx
+│       ├── News.jsx
+│       └── Contact.jsx
+```
+
+## 📜 License
+
+This project is public for viewing only.  
+All content © 2025 Geological Survey of Israel – Dead Sea Observatory.
+
 # Manuel Nieto Software Developer
