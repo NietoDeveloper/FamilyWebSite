@@ -41,4 +41,4 @@ src/
 This project is public for viewing only.  
 All content © 2025 Geological Survey of Israel – Dead Sea Observatory.
 
-# Manuel Nieto Software Developer
+## Manuel Nieto Software Developer
