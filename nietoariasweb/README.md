@@ -34,7 +34,6 @@ src/
 │       ├── Collaborations.jsx
 │       ├── News.jsx
 │       └── Contact.jsx
-```
 
 ## 📜 License
 
