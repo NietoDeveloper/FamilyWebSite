@@ -8,7 +8,7 @@ Prerequisites
 Node.js (v18 or higher)
 npm or yarn
 
-## Installation
+### Installation
 
 Clone the repository:git clone <https://github.com/NietoDeveloper>
 
